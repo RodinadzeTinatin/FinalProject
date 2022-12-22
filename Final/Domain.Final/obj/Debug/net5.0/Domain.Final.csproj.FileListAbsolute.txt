@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Final\Domain.Final\bin\Debug\net5.0\Domain.Final.deps.json
+C:\Users\User\source\repos\Final\Domain.Final\bin\Debug\net5.0\Domain.Final.runtimeconfig.json
+C:\Users\User\source\repos\Final\Domain.Final\bin\Debug\net5.0\Domain.Final.runtimeconfig.dev.json
+C:\Users\User\source\repos\Final\Domain.Final\bin\Debug\net5.0\Domain.Final.dll
+C:\Users\User\source\repos\Final\Domain.Final\bin\Debug\net5.0\Domain.Final.pdb
+C:\Users\User\source\repos\Final\Domain.Final\obj\Debug\net5.0\Domain.Final.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Final\Domain.Final\obj\Debug\net5.0\Domain.Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Final\Domain.Final\obj\Debug\net5.0\Domain.Final.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Final\Domain.Final\obj\Debug\net5.0\Domain.Final.AssemblyInfo.cs
+C:\Users\User\source\repos\Final\Domain.Final\obj\Debug\net5.0\Domain.Final.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Final\Domain.Final\obj\Debug\net5.0\Domain.Final.dll
+C:\Users\User\source\repos\Final\Domain.Final\obj\Debug\net5.0\refint\Domain.Final.dll
+C:\Users\User\source\repos\Final\Domain.Final\obj\Debug\net5.0\Domain.Final.pdb
+C:\Users\User\source\repos\Final\Domain.Final\obj\Debug\net5.0\Domain.Final.genruntimeconfig.cache
+C:\Users\User\source\repos\Final\Domain.Final\obj\Debug\net5.0\ref\Domain.Final.dll
